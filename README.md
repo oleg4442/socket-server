@@ -7,6 +7,6 @@
 Server is listening port 4000 and shows report every 10 seconds in console
 Client creates 5 client threads. Each thread posts 10K numbers to the server simultaneously
 
-
+numbers.log file will be available after client finish its work.
 
 
